@@ -1,4 +1,4 @@
-# Module opens connection to cisdbss.pcc.edu, gets data from database, closes connection
+# Module opens connection to scrubbed.pcc.edu, gets data from database, closes connection
 
 import pyodbc
 
