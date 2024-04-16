@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface version="1.2">
+  <object class="tk.Toplevel" id="top_level">
+    <property name="height">200</property>
+    <property name="resizable">both</property>
+    <property name="title" translatable="yes">HIstorical Name Data</property>
+    <property name="width">200</property>
+  </object>
+</interface>
